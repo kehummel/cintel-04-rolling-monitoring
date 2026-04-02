@@ -128,3 +128,8 @@ git push -u origin main
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
 - Use `CTRL+f` to find (and replace) text within a file.
+
+## Phase 4
+
+- Round each rolling average to 2 decimal places using .round(2)
+- Change the window from 3 to 4.
