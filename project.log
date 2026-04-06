@@ -44,3 +44,83 @@
 2026-04-02 14:11:01 | INFO | P5 | Pipeline executed successfully!
 2026-04-02 14:11:01 | INFO | P5 | ========================
 2026-04-02 14:11:01 | INFO | P5 | END main()
+2026-04-06 19:09:19 | INFO | P5 | === RUN START ===
+2026-04-06 19:09:19 | INFO | P5 | project=CINTEL
+2026-04-06 19:09:19 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-04-06 19:09:19 | INFO | P5 | python=3.14.3
+2026-04-06 19:09:19 | INFO | P5 | os=Windows 11
+2026-04-06 19:09:19 | INFO | P5 | shell=powershell
+2026-04-06 19:09:19 | INFO | P5 | cwd=.
+2026-04-06 19:09:19 | INFO | P5 | github_actions=False
+2026-04-06 19:09:19 | INFO | P5 | ========================
+2026-04-06 19:09:19 | INFO | P5 | START main()
+2026-04-06 19:09:19 | INFO | P5 | ========================
+2026-04-06 19:09:19 | INFO | P5 | ROOT_DIR = .
+2026-04-06 19:09:19 | INFO | P5 | DATA_FILE = data\machine_quality_hummel.csv
+2026-04-06 19:09:19 | INFO | P5 | OUTPUT_FILE = artifacts\rolling_machine_quality_hummel.csv
+2026-04-06 19:09:19 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-06 19:09:19 | INFO | P5 | Loaded 341 time-series records
+2026-04-06 19:09:19 | INFO | P5 | Sorted records by timestamp
+2026-04-06 19:09:19 | INFO | P5 | Computed rolling mean signals
+2026-04-06 19:09:19 | INFO | P5 | Wrote rolling monitoring file: C:\Repos\Continuouse_Intelligence\cintel-04-rolling-monitoring\artifacts\rolling_machine_quality_hummel.csv
+2026-04-06 19:09:19 | INFO | P5 | ========================
+2026-04-06 19:09:19 | INFO | P5 | Pipeline executed successfully!
+2026-04-06 19:09:19 | INFO | P5 | ========================
+2026-04-06 19:09:19 | INFO | P5 | END main()
+2026-04-06 19:16:41 | INFO | P5 | === RUN START ===
+2026-04-06 19:16:41 | INFO | P5 | project=CINTEL
+2026-04-06 19:16:41 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-04-06 19:16:41 | INFO | P5 | python=3.14.3
+2026-04-06 19:16:41 | INFO | P5 | os=Windows 11
+2026-04-06 19:16:41 | INFO | P5 | shell=powershell
+2026-04-06 19:16:41 | INFO | P5 | cwd=.
+2026-04-06 19:16:41 | INFO | P5 | github_actions=False
+2026-04-06 19:16:41 | INFO | P5 | ========================
+2026-04-06 19:16:41 | INFO | P5 | START main()
+2026-04-06 19:16:41 | INFO | P5 | ========================
+2026-04-06 19:16:41 | INFO | P5 | ROOT_DIR = .
+2026-04-06 19:16:41 | INFO | P5 | DATA_FILE = data\machine_quality_hummel.csv
+2026-04-06 19:16:41 | INFO | P5 | OUTPUT_FILE = artifacts\rolling_machine_quality_hummel.csv
+2026-04-06 19:16:41 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-06 19:16:41 | INFO | P5 | Loaded 341 time-series records
+2026-04-06 19:16:41 | INFO | P5 | Sorted records by timestamp
+2026-04-06 19:16:41 | INFO | P5 | Computed rolling mean signals
+2026-04-06 19:16:41 | INFO | P5 | Wrote rolling monitoring file: C:\Repos\Continuouse_Intelligence\cintel-04-rolling-monitoring\artifacts\rolling_machine_quality_hummel.csv
+2026-04-06 19:16:41 | INFO | P5 | ========================
+2026-04-06 19:16:41 | INFO | P5 | Pipeline executed successfully!
+2026-04-06 19:16:41 | INFO | P5 | ========================
+2026-04-06 19:20:47 | INFO | P5 | === RUN START ===
+2026-04-06 19:20:47 | INFO | P5 | project=CINTEL
+2026-04-06 19:20:47 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-04-06 19:20:47 | INFO | P5 | python=3.14.3
+2026-04-06 19:20:47 | INFO | P5 | os=Windows 11
+2026-04-06 19:20:47 | INFO | P5 | shell=powershell
+2026-04-06 19:20:47 | INFO | P5 | cwd=.
+2026-04-06 19:20:47 | INFO | P5 | github_actions=False
+2026-04-06 19:20:47 | INFO | P5 | ========================
+2026-04-06 19:20:47 | INFO | P5 | START main()
+2026-04-06 19:20:47 | INFO | P5 | ========================
+2026-04-06 19:20:47 | INFO | P5 | ROOT_DIR = .
+2026-04-06 19:20:47 | INFO | P5 | DATA_FILE = data\machine_quality_hummel.csv
+2026-04-06 19:20:47 | INFO | P5 | OUTPUT_FILE = artifacts\rolling_machine_quality_hummel.csv
+2026-04-06 19:20:47 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-06 19:20:47 | INFO | P5 | Loaded 341 time-series records
+2026-04-06 19:20:47 | INFO | P5 | Sorted records by timestamp
+2026-04-06 19:20:47 | INFO | P5 | Computed rolling mean signals
+2026-04-06 19:20:47 | INFO | P5 | Wrote rolling monitoring file: C:\Repos\Continuouse_Intelligence\cintel-04-rolling-monitoring\artifacts\rolling_machine_quality_hummel.csv
+2026-04-06 19:20:47 | INFO | P5 | ========================
+2026-04-06 19:20:47 | INFO | P5 | Pipeline executed successfully!
+2026-04-06 19:20:47 | INFO | P5 | ========================
+2026-04-06 19:20:47 | INFO | P5 | Row 30: temp=74.55, speed=1500.70, vibration=0.07, energy=1.52
+2026-04-06 19:20:47 | INFO | P5 | Row 60: temp=74.68, speed=1490.77, vibration=0.06, energy=1.45
+2026-04-06 19:20:47 | INFO | P5 | Row 90: temp=75.60, speed=1506.77, vibration=0.07, energy=1.49
+2026-04-06 19:20:47 | INFO | P5 | Row 120: temp=74.99, speed=1503.80, vibration=0.07, energy=1.51
+2026-04-06 19:20:47 | INFO | P5 | Row 150: temp=74.31, speed=1498.03, vibration=0.07, energy=1.42
+2026-04-06 19:20:47 | INFO | P5 | Row 180: temp=75.09, speed=1498.50, vibration=0.06, energy=1.47
+2026-04-06 19:20:47 | INFO | P5 | Row 210: temp=74.82, speed=1504.57, vibration=0.07, energy=1.37
+2026-04-06 19:20:47 | INFO | P5 | Row 240: temp=74.61, speed=1508.07, vibration=0.06, energy=1.52
+2026-04-06 19:20:47 | INFO | P5 | Row 270: temp=74.48, speed=1507.13, vibration=0.06, energy=1.46
+2026-04-06 19:20:47 | INFO | P5 | Row 300: temp=75.09, speed=1502.87, vibration=0.06, energy=1.46
+2026-04-06 19:20:47 | INFO | P5 | Row 330: temp=74.94, speed=1503.20, vibration=0.06, energy=1.48
+2026-04-06 19:20:47 | INFO | P5 | ========================
+2026-04-06 19:20:47 | INFO | P5 | END main()
